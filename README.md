@@ -1,2 +1,4 @@
 # roboterlader-logic-and-code
-I have built logic and implementation for the robot-loader from scratch using MatLab and additional libraries used to control the robot itself
+Thats the source code of my implementation and logic for the robot-loader, that I have built from scratch using LEGO-NXT Mindstorms details and programmed it using MATLAB and additional libraries (RWTHMindstormsNXT) to have full functionality to program each detail.
+
+The Idea was to biult a robot that follows a black line on the floor until it reaches the two boxes on the left side of the robot. The boxes could be placed on one of three positions. Regarding the similarity or difference of the distance between the boxes and UltraSonic-Sensor on the robot it moves (or not if they have similar distance) the second box to the same position as the first one. Then proceeds to follow the black line, until it reaches the colored material on the floor and based on the color, parks itself on one out of three positions and finishes the program.
