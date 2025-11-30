@@ -1,0 +1,4 @@
+function updateLightValueLeft ()
+    global lightValueLeft;
+    lightValueLeft = GetLight(SENSO)
+end
